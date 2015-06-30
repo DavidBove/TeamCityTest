@@ -13,6 +13,7 @@ namespace TeamCityTest.Controllers
 
         public ActionResult Index()
         {
+            var gg = "gg";
             return View();
         }
 
